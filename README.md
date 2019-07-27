@@ -1,5 +1,5 @@
-# SmartBrain - v1
-Final project for Udemy course
+# face-recognation-app-front-end
+
 
 1. Clone this repo
 2. Run `npm install`
